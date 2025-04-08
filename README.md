@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas escalables y 
 
 🛠️ Tecnologías Principales:
 
-HTML5 & CSS3, JavaScript, Node.js, Python, Docker, java, C#
+HTML5 & CSS3, JavaScript, Node.js, Python, Docker, java, C#, php
 
 
 📈 Estadísticas de GitHub
