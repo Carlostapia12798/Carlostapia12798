@@ -1,5 +1,4 @@
-🚀 Carlos Jashier Tapia | Full Stack Developer
-React | Node.js | Python | MongoDB
+🚀 Carlos Jashier Tapia | Developer | Node.js | Python
 
 print("¡Bienvenido a mi perfil! 👋")
 Soy un desarrollador apasionado por crear soluciones tecnológicas escalables y eficientes. Actualmente enfocado en el desarrollo Full Stack y la Ingeniería de Datos.
