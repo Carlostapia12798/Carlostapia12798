@@ -12,5 +12,7 @@ HTML5 & CSS3, JavaScript, Node.js, Python, Docker, java, C#
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosTapia12798&show_icons=true&theme=radical" alt="Estadísticas" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTapia12798&layout=compact&theme=radical" alt="Lenguajes" width="300"/> </p>
 
 📫 Contáctame
+
 💼 LinkedIn: www.linkedin.com/in/carlos-jashier-tapia-9970ba246
+
 📧 Email: carlosjtapia12798@hotmail.com
